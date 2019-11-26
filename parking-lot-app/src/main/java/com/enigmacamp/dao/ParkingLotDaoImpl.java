@@ -25,16 +25,34 @@ public class ParkingLotDaoImpl implements ParkingLotDao {
 
     @Override
     public String park(Car car) {
-        return null;
+        for (int slot = 1; slot <= this.capacity; slot++) {
+            if(parkingSlot.get(slot)==null){
+                parkingSlot.put(slot,car);
+                return String.format(MessageConstant.PARKING_SUCCESS,slot);
+            }
+        }
+        return MessageConstant.PARKING_LOT_FULL;
     }
 
     @Override
     public String leave(Car car) {
-        return null;
+        for (Map.Entry<Integer,Car> slot : parkingSlot.entrySet()){
+            if(slot.getValue()!=null){
+                if(slot.getValue().getPlateNumber().equals(car.getPlateNumber())){
+                    return String.format(MessageConstant.LEAVE_SUCCESS,car.getPlateNumber(),slot.getKey());
+                }
+            }
+        }
+        return String.format(MessageConstant.LEAVE_FAILED,car.getPlateNumber());
     }
 
     @Override
     public String getStatus() {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append(MessageConstant.HEADER_STATUS);
+        for(Map.Entry<Integer,Car> entry : parkingSlot.entrySet()){
+                stringBuilder.append(String.format(MessageConstant.STATUS, entry.getKey(), entry.getValue()));
+        }
         return null;
     }
 }
