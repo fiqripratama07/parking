@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60b57975-d574-4b8b-947d-461c29d2df68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enigmacamp/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enigmacamp/MainApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/enigmacamp/constant/MessageConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enigmacamp/constant/MessageConstant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enigmacamp/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enigmacamp/model/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/enigmacamp/dao/ParkingLotDaoImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/enigmacamp/dao/ParkingLotDaoImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enigmacamp/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/enigmacamp/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enigmacamp/constant/MessageConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/enigmacamp/constant/MessageConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enigmacamp/dao/ParkingLotDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/enigmacamp/dao/ParkingLotDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/enigmacamp/model/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/enigmacamp/model/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/enigmacamp/dao/ParkingLotDaoImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/enigmacamp/dao/ParkingLotDaoImplTest.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,225 +21,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="158" />
+    <option name="myElementSize" value="152" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
-              <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/MainApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/enigmacamp/dao/ParkingLotDaoImplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/constant/MessageConstant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/model/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/enigmacamp/MainApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enigmacamp/model/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enigmacamp/constant/messageConstant.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/com/enigmacamp/dao/ParkingLotDaoImplTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enigmacamp/constant/MessageConstant.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java" />
-      </list>
-    </option>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="ParkingLotDaoImplTest" />
+    </enabled-run-configurations>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
-    <option name="width" value="981" />
-    <option name="height" value="1092" />
-  </component>
+  <component name="ProjectId" id="1U9XpZ7CyZ28ngs7KcOP05ohFXW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="enigmacamp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="enigmacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="constant" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="enigmacamp" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="parking-lot-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="parking-lot-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -241,6 +62,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\parking\parking-lot-app\src\main\java\com\enigmacamp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,7 +79,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED">
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.MainApplication" />
+      <module name="parking-lot-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enigmacamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ParkingLotDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parking-lot-app" />
       <extension name="coverage">
@@ -271,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkingLotDaoImplTest.leave_shouldReturn_LEAVE_SUCCESS_withCorrect_plateNumber_when_carIsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParkingLotDaoImplTest.getStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parking-lot-app" />
       <extension name="coverage">
         <pattern>
@@ -281,13 +118,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.enigmacamp.dao" />
       <option name="MAIN_CLASS_NAME" value="com.enigmacamp.dao.ParkingLotDaoImplTest" />
-      <option name="METHOD_NAME" value="leave_shouldReturn_LEAVE_SUCCESS_withCorrect_plateNumber_when_carIsExist" />
+      <option name="METHOD_NAME" value="getStatus" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkingLotDaoImplTest.leave_shouldReturn_LEAVE_SUCCESS_withTheSecond_plateNumbersCar_when_CarIsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParkingLotDaoImplTest.leave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parking-lot-app" />
       <extension name="coverage">
         <pattern>
@@ -297,13 +134,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.enigmacamp.dao" />
       <option name="MAIN_CLASS_NAME" value="com.enigmacamp.dao.ParkingLotDaoImplTest" />
-      <option name="METHOD_NAME" value="leave_shouldReturn_LEAVE_SUCCESS_withTheSecond_plateNumbersCar_when_CarIsExist" />
+      <option name="METHOD_NAME" value="leave" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkingLotDaoImplTest.parkCar_shouldReturn_stringMessage_PARKING_SUCCESS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_SUCCESS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parking-lot-app" />
       <extension name="coverage">
         <pattern>
@@ -313,23 +150,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.enigmacamp.dao" />
       <option name="MAIN_CLASS_NAME" value="com.enigmacamp.dao.ParkingLotDaoImplTest" />
-      <option name="METHOD_NAME" value="parkCar_shouldReturn_stringMessage_PARKING_SUCCESS" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parking-lot-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.enigmacamp.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.enigmacamp.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.dao.ParkingLotDaoImplTest" />
-      <option name="METHOD_NAME" value="park_shouldReturn_stringMessage_PARKING_FAILED" />
+      <option name="METHOD_NAME" value="park_shouldReturn_stringMessage_PARKING_SUCCESS" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -337,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" />
+        <item itemvalue="Application.MainApplication" />
         <item itemvalue="JUnit.ParkingLotDaoImplTest" />
-        <item itemvalue="JUnit.ParkingLotDaoImplTest.leave_shouldReturn_LEAVE_SUCCESS_withTheSecond_plateNumbersCar_when_CarIsExist" />
-        <item itemvalue="JUnit.ParkingLotDaoImplTest.leave_shouldReturn_LEAVE_SUCCESS_withCorrect_plateNumber_when_carIsExist" />
-        <item itemvalue="JUnit.ParkingLotDaoImplTest.parkCar_shouldReturn_stringMessage_PARKING_SUCCESS" />
+        <item itemvalue="JUnit.ParkingLotDaoImplTest.leave" />
+        <item itemvalue="JUnit.ParkingLotDaoImplTest.getStatus" />
+        <item itemvalue="JUnit.ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_SUCCESS" />
       </list>
     </recent_temporary>
   </component>
@@ -355,149 +176,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574669046009</updated>
+      <workItem from="1574769975582" duration="38949000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ParkingLotDaoImplTest_park_shouldReturn_stringMessage_PARKING_FAILED - 2019.11.25 at 23h 59m 12s.xml">
-      <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest_park_shouldReturn_stringMessage_PARKING_FAILED - 2019.11.25 at 23h 59m 35s.xml">
-      <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest_park_shouldReturn_stringMessage_PARKING_FAILED - 2019.11.25 at 23h 59m 41s.xml">
-      <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest_park_shouldReturn_stringMessage_PARKING_FAILED - 2019.11.26 at 00h 00m 47s.xml">
-      <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest_park_shouldReturn_stringMessage_PARKING_FAILED - 2019.11.26 at 00h 04m 50s.xml">
-      <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest - 2019.11.26 at 00h 16m 11s.xml">
-      <configuration name="ParkingLotDaoImplTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest - 2019.11.26 at 01h 27m 51s.xml">
-      <configuration name="ParkingLotDaoImplTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest - 2019.11.26 at 01h 44m 16s.xml">
-      <configuration name="ParkingLotDaoImplTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest - 2019.11.26 at 01h 46m 10s.xml">
-      <configuration name="ParkingLotDaoImplTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ParkingLotDaoImplTest_park_shouldReturn_stringMessage_PARKING_FAILED - 2019.11.26 at 01h 48m 15s.xml">
-      <configuration name="ParkingLotDaoImplTest.park_shouldReturn_stringMessage_PARKING_FAILED" configurationId="JUnit" />
-    </history-entry>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20728745" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32928944" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32928944" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928944" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32955465" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/parking_lot_app$ParkingLotDaoImplTest.ic" NAME="ParkingLotDaoImplTest Coverage Results" MODIFIED="1574761565204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/parking_lot_app$ParkingLotDaoImplTest.ic" NAME="ParkingLotDaoImplTest Coverage Results" MODIFIED="1574848823312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.enigmacamp.dao.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/model/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="28" column="69" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/MainApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/constant/MessageConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/enigmacamp/dao/ParkingLotDaoImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/enigmacamp/dao/ParkingLotDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
